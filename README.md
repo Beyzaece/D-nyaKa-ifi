@@ -1,2 +1,2 @@
-# D-nyaKa-ifi
-Artırılmış gerçeklik temelli,çocuklara yönelikinteraktif eğitim oyunu projesi.
+# DünyaKaşifi
+Artırılmış gerçeklik temelli,çocuklara yönelik interaktif eğitim oyunu projesi.
